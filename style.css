@@ -1,0 +1,46 @@
+body{
+    border-radius: 50%;
+    margin:20px 500px;
+    border:1px Solid ;
+    background-color:   hsl(0, 0%, 8%);
+}
+img{
+    border-radius:50%;
+    width: 100px; 
+    height: 100px;
+}
+.jessi{
+   margin:0;
+   padding: 20px;
+    font-family: Inter;
+    font-size:14px;
+    display:flex;
+    flex-direction: column;
+    align-items: center;
+    background-color: hsl(0, 0%, 12%);
+    color:hsl(0, 0%, 100%);
+    box-sizing: content-box;
+}
+button{
+    width: 80%;
+    padding:3%;
+    background-color:  hsl(0, 0%, 20%);
+    color:hsl(0, 0%, 100%);
+    font:14px;
+}
+
+h1{
+    font:14px;
+    font-weight:700px;
+    margin:0;
+}
+.title{
+
+    font:14px;
+    font-weight:400px;
+    color:hsl(75, 94%, 57%);
+}
+.role{
+    font:14px;
+    font-weight:600px;
+}
